@@ -1,0 +1,13 @@
+{
+  "slug": "helion-mass-energy-equivalent-in-mev",
+  "name": "helion mass energy equivalent in MeV",
+  "value": 2808.39161112,
+  "value_string": "2808.391 611 12",
+  "uncertainty": 8.8e-7,
+  "uncertainty_string": "0.000 000 88",
+  "unit": "MeV",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

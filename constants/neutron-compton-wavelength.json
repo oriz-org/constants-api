@@ -1,0 +1,13 @@
+{
+  "slug": "neutron-compton-wavelength",
+  "name": "neutron Compton wavelength",
+  "value": 1.31959090382e-15,
+  "value_string": "1.319 590 903 82 e-15",
+  "uncertainty": 6.7e-25,
+  "uncertainty_string": "0.000 000 000 67 e-15",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

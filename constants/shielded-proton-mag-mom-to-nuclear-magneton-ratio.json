@@ -1,0 +1,13 @@
+{
+  "slug": "shielded-proton-mag-mom-to-nuclear-magneton-ratio",
+  "name": "shielded proton mag. mom. to nuclear magneton ratio",
+  "value": 2.792775648,
+  "value_string": "2.792 775 648",
+  "uncertainty": 1.1e-8,
+  "uncertainty_string": "0.000 000 011",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

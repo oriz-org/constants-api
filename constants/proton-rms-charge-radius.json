@@ -1,0 +1,13 @@
+{
+  "slug": "proton-rms-charge-radius",
+  "name": "proton rms charge radius",
+  "value": 8.4075e-16,
+  "value_string": "8.4075 e-16",
+  "uncertainty": 6.4e-19,
+  "uncertainty_string": "0.0064 e-16",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-unit-of-1st-hyperpolarizability",
+  "name": "atomic unit of 1st hyperpolarizability",
+  "value": 3.2063612996e-53,
+  "value_string": "3.206 361 2996 e-53",
+  "uncertainty": 1.5e-62,
+  "uncertainty_string": "0.000 000 0015 e-53",
+  "unit": "C^3 m^3 J^-2",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

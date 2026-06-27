@@ -1,0 +1,13 @@
+{
+  "slug": "kelvin-electron-volt-relationship",
+  "name": "kelvin-electron volt relationship",
+  "value": 0.00008617333262,
+  "value_string": "8.617 333 262... e-5",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "eV",
+  "exact": true,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

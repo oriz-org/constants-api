@@ -1,0 +1,13 @@
+{
+  "slug": "wien-frequency-displacement-law-constant",
+  "name": "Wien frequency displacement law constant",
+  "value": 58789257570,
+  "value_string": "5.878 925 757... e10",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "Hz K^-1",
+  "exact": true,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

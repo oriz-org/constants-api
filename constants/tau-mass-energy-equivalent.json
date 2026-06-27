@@ -1,0 +1,13 @@
+{
+  "slug": "tau-mass-energy-equivalent",
+  "name": "tau mass energy equivalent",
+  "value": 2.84684e-10,
+  "value_string": "2.846 84 e-10",
+  "uncertainty": 1.9e-14,
+  "uncertainty_string": "0.000 19 e-10",
+  "unit": "J",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

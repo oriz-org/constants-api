@@ -1,0 +1,13 @@
+{
+  "slug": "hartree-kilogram-relationship",
+  "name": "hartree-kilogram relationship",
+  "value": 4.8508702095419e-35,
+  "value_string": "4.850 870 209 5419 e-35",
+  "uncertainty": 5.3e-47,
+  "uncertainty_string": "0.000 000 000 0053 e-35",
+  "unit": "kg",
+  "exact": false,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

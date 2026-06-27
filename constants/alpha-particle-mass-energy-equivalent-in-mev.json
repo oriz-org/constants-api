@@ -1,0 +1,13 @@
+{
+  "slug": "alpha-particle-mass-energy-equivalent-in-mev",
+  "name": "alpha particle mass energy equivalent in MeV",
+  "value": 3727.3794118,
+  "value_string": "3727.379 4118",
+  "uncertainty": 0.0000012,
+  "uncertainty_string": "0.000 0012",
+  "unit": "MeV",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

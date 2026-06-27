@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-mass-unit-joule-relationship",
+  "name": "atomic mass unit-joule relationship",
+  "value": 1.49241808768e-10,
+  "value_string": "1.492 418 087 68 e-10",
+  "uncertainty": 4.6e-20,
+  "uncertainty_string": "0.000 000 000 46 e-10",
+  "unit": "J",
+  "exact": false,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

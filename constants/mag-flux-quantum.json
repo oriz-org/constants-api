@@ -1,0 +1,13 @@
+{
+  "slug": "mag-flux-quantum",
+  "name": "mag. flux quantum",
+  "value": 2.067833848e-15,
+  "value_string": "2.067 833 848... e-15",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "Wb",
+  "exact": true,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "deuteron-proton-mass-ratio",
+  "name": "deuteron-proton mass ratio",
+  "value": 1.9990075012699,
+  "value_string": "1.999 007 501 2699",
+  "uncertainty": 8.4e-12,
+  "uncertainty_string": "0.000 000 000 0084",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

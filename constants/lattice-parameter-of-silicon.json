@@ -1,0 +1,13 @@
+{
+  "slug": "lattice-parameter-of-silicon",
+  "name": "lattice parameter of silicon",
+  "value": 5.431020511e-10,
+  "value_string": "5.431 020 511 e-10",
+  "uncertainty": 8.9e-18,
+  "uncertainty_string": "0.000 000 089 e-10",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "electron-volt-atomic-mass-unit-relationship",
+  "name": "electron volt-atomic mass unit relationship",
+  "value": 1.07354410083e-9,
+  "value_string": "1.073 544 100 83 e-9",
+  "uncertainty": 3.3e-19,
+  "uncertainty_string": "0.000 000 000 33 e-9",
+  "unit": "u",
+  "exact": false,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

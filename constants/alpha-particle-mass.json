@@ -1,0 +1,13 @@
+{
+  "slug": "alpha-particle-mass",
+  "name": "alpha particle mass",
+  "value": 6.644657345e-27,
+  "value_string": "6.644 657 3450 e-27",
+  "uncertainty": 2.1e-36,
+  "uncertainty_string": "0.000 000 0021 e-27",
+  "unit": "kg",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

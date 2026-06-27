@@ -1,0 +1,13 @@
+{
+  "slug": "electron-volt-inverse-meter-relationship",
+  "name": "electron volt-inverse meter relationship",
+  "value": 806554.3937,
+  "value_string": "8.065 543 937... e5",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "m^-1",
+  "exact": true,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

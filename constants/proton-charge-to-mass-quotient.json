@@ -1,0 +1,13 @@
+{
+  "slug": "proton-charge-to-mass-quotient",
+  "name": "proton charge to mass quotient",
+  "value": 95788331.43,
+  "value_string": "9.578 833 1430 e7",
+  "uncertainty": 0.03,
+  "uncertainty_string": "0.000 000 0030 e7",
+  "unit": "C kg^-1",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

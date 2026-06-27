@@ -1,0 +1,13 @@
+{
+  "slug": "compton-wavelength",
+  "name": "Compton wavelength",
+  "value": 2.42631023538e-12,
+  "value_string": "2.426 310 235 38 e-12",
+  "uncertainty": 7.6e-22,
+  "uncertainty_string": "0.000 000 000 76 e-12",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

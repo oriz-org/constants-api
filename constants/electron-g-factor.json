@@ -1,0 +1,13 @@
+{
+  "slug": "electron-g-factor",
+  "name": "electron g factor",
+  "value": -2.00231930436092,
+  "value_string": "-2.002 319 304 360 92",
+  "uncertainty": 3.6e-13,
+  "uncertainty_string": "0.000 000 000 000 36",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

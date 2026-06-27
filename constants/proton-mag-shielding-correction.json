@@ -1,0 +1,13 @@
+{
+  "slug": "proton-mag-shielding-correction",
+  "name": "proton mag. shielding correction",
+  "value": 0.0000256715,
+  "value_string": "2.567 15 e-5",
+  "uncertainty": 4.1e-9,
+  "uncertainty_string": "0.000 41 e-5",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

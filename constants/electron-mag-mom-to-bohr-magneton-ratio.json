@@ -1,0 +1,13 @@
+{
+  "slug": "electron-mag-mom-to-bohr-magneton-ratio",
+  "name": "electron mag. mom. to Bohr magneton ratio",
+  "value": -1.00115965218046,
+  "value_string": "-1.001 159 652 180 46",
+  "uncertainty": 1.8e-13,
+  "uncertainty_string": "0.000 000 000 000 18",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

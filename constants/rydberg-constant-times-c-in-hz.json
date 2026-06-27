@@ -1,0 +1,13 @@
+{
+  "slug": "rydberg-constant-times-c-in-hz",
+  "name": "Rydberg constant times c in Hz",
+  "value": 3289841960250000,
+  "value_string": "3.289 841 960 2500 e15",
+  "uncertainty": 3600,
+  "uncertainty_string": "0.000 000 000 0036 e15",
+  "unit": "Hz",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

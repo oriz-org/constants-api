@@ -1,0 +1,13 @@
+{
+  "slug": "triton-mass-energy-equivalent-in-mev",
+  "name": "triton mass energy equivalent in MeV",
+  "value": 2808.92113668,
+  "value_string": "2808.921 136 68",
+  "uncertainty": 8.8e-7,
+  "uncertainty_string": "0.000 000 88",
+  "unit": "MeV",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

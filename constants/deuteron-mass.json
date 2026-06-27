@@ -1,0 +1,13 @@
+{
+  "slug": "deuteron-mass",
+  "name": "deuteron mass",
+  "value": 3.3435837768e-27,
+  "value_string": "3.343 583 7768 e-27",
+  "uncertainty": 1e-36,
+  "uncertainty_string": "0.000 000 0010 e-27",
+  "unit": "kg",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

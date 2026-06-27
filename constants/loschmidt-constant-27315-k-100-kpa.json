@@ -1,0 +1,13 @@
+{
+  "slug": "loschmidt-constant-27315-k-100-kpa",
+  "name": "Loschmidt constant (273.15 K, 100 kPa)",
+  "value": 2.651645804e+25,
+  "value_string": "2.651 645 804... e25",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "m^-3",
+  "exact": true,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

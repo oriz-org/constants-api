@@ -1,0 +1,13 @@
+{
+  "slug": "inverse-meter-hertz-relationship",
+  "name": "inverse meter-hertz relationship",
+  "value": 299792458,
+  "value_string": "299 792 458",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "Hz",
+  "exact": true,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

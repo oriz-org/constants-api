@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-unit-of-2nd-hyperpolarizability",
+  "name": "atomic unit of 2nd hyperpolarizability",
+  "value": 6.2353799735e-65,
+  "value_string": "6.235 379 9735 e-65",
+  "uncertainty": 3.9e-74,
+  "uncertainty_string": "0.000 000 0039 e-65",
+  "unit": "C^4 m^4 J^-3",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "electron-gyromag-ratio-in-mhz-t",
+  "name": "electron gyromag. ratio in MHz/T",
+  "value": 28024.9513861,
+  "value_string": "28 024.951 3861",
+  "uncertainty": 0.0000087,
+  "uncertainty_string": "0.000 0087",
+  "unit": "MHz T^-1",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

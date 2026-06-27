@@ -1,0 +1,13 @@
+{
+  "slug": "muon-mag-mom-anomaly",
+  "name": "muon mag. mom. anomaly",
+  "value": 0.00116592062,
+  "value_string": "1.165 920 62 e-3",
+  "uncertainty": 4.1e-10,
+  "uncertainty_string": "0.000 000 41 e-3",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

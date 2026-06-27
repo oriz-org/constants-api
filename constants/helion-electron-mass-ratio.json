@@ -1,0 +1,13 @@
+{
+  "slug": "helion-electron-mass-ratio",
+  "name": "helion-electron mass ratio",
+  "value": 5495.88527984,
+  "value_string": "5495.885 279 84",
+  "uncertainty": 1.6e-7,
+  "uncertainty_string": "0.000 000 16",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

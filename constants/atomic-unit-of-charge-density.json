@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-unit-of-charge-density",
+  "name": "atomic unit of charge density",
+  "value": 1081202386770,
+  "value_string": "1.081 202 386 77 e12",
+  "uncertainty": 510,
+  "uncertainty_string": "0.000 000 000 51 e12",
+  "unit": "C m^-3",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

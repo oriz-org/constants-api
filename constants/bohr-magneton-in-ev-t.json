@@ -1,0 +1,13 @@
+{
+  "slug": "bohr-magneton-in-ev-t",
+  "name": "Bohr magneton in eV/T",
+  "value": 0.000057883817982,
+  "value_string": "5.788 381 7982 e-5",
+  "uncertainty": 1.8e-14,
+  "uncertainty_string": "0.000 000 0018 e-5",
+  "unit": "eV T^-1",
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

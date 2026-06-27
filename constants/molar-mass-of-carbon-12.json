@@ -1,0 +1,13 @@
+{
+  "slug": "molar-mass-of-carbon-12",
+  "name": "molar mass of carbon-12",
+  "value": 0.0120000000126,
+  "value_string": "12.000 000 0126 e-3",
+  "uncertainty": 3.7e-12,
+  "uncertainty_string": "0.000 000 0037 e-3",
+  "unit": "kg mol^-1",
+  "exact": false,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

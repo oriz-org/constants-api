@@ -1,0 +1,13 @@
+{
+  "slug": "triton-mag-mom",
+  "name": "triton mag. mom.",
+  "value": 1.5046095178e-26,
+  "value_string": "1.504 609 5178 e-26",
+  "uncertainty": 3e-35,
+  "uncertainty_string": "0.000 000 0030 e-26",
+  "unit": "J T^-1",
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

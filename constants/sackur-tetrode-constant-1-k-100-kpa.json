@@ -1,0 +1,13 @@
+{
+  "slug": "sackur-tetrode-constant-1-k-100-kpa",
+  "name": "Sackur-Tetrode constant (1 K, 100 kPa)",
+  "value": -1.15170753496,
+  "value_string": "-1.151 707 534 96",
+  "uncertainty": 4.7e-10,
+  "uncertainty_string": "0.000 000 000 47",
+  "unit": null,
+  "exact": false,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "shielded-proton-gyromag-ratio-in-mhz-t",
+  "name": "shielded proton gyromag. ratio in MHz/T",
+  "value": 42.57638543,
+  "value_string": "42.576 385 43",
+  "uncertainty": 1.7e-7,
+  "uncertainty_string": "0.000 000 17",
+  "unit": "MHz T^-1",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

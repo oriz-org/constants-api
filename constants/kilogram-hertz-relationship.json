@@ -1,0 +1,13 @@
+{
+  "slug": "kilogram-hertz-relationship",
+  "name": "kilogram-hertz relationship",
+  "value": 1.356392489e+50,
+  "value_string": "1.356 392 489... e50",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "Hz",
+  "exact": true,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

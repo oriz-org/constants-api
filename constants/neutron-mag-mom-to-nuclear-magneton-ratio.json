@@ -1,0 +1,13 @@
+{
+  "slug": "neutron-mag-mom-to-nuclear-magneton-ratio",
+  "name": "neutron mag. mom. to nuclear magneton ratio",
+  "value": -1.91304276,
+  "value_string": "-1.913 042 76",
+  "uncertainty": 4.5e-7,
+  "uncertainty_string": "0.000 000 45",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

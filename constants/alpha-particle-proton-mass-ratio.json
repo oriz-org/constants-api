@@ -1,0 +1,13 @@
+{
+  "slug": "alpha-particle-proton-mass-ratio",
+  "name": "alpha particle-proton mass ratio",
+  "value": 3.972599690252,
+  "value_string": "3.972 599 690 252",
+  "uncertainty": 7e-11,
+  "uncertainty_string": "0.000 000 000 070",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

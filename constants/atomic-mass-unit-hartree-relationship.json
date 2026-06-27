@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-mass-unit-hartree-relationship",
+  "name": "atomic mass unit-hartree relationship",
+  "value": 34231776.922,
+  "value_string": "3.423 177 6922 e7",
+  "uncertainty": 0.011,
+  "uncertainty_string": "0.000 000 0011 e7",
+  "unit": "E_h",
+  "exact": false,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

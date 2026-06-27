@@ -1,0 +1,13 @@
+{
+  "slug": "kilogram-electron-volt-relationship",
+  "name": "kilogram-electron volt relationship",
+  "value": 5.609588603e+35,
+  "value_string": "5.609 588 603... e35",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "eV",
+  "exact": true,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

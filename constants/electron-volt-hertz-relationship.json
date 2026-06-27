@@ -1,0 +1,13 @@
+{
+  "slug": "electron-volt-hertz-relationship",
+  "name": "electron volt-hertz relationship",
+  "value": 241798924200000,
+  "value_string": "2.417 989 242... e14",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "Hz",
+  "exact": true,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "reduced-compton-wavelength",
+  "name": "reduced Compton wavelength",
+  "value": 3.8615926744e-13,
+  "value_string": "3.861 592 6744 e-13",
+  "uncertainty": 1.2e-22,
+  "uncertainty_string": "0.000 000 0012 e-13",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

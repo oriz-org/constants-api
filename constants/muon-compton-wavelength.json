@@ -1,0 +1,13 @@
+{
+  "slug": "muon-compton-wavelength",
+  "name": "muon Compton wavelength",
+  "value": 1.17344411e-14,
+  "value_string": "1.173 444 110 e-14",
+  "uncertainty": 2.6e-22,
+  "uncertainty_string": "0.000 000 026 e-14",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

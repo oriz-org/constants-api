@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-mass-unit-kelvin-relationship",
+  "name": "atomic mass unit-kelvin relationship",
+  "value": 10809540206700,
+  "value_string": "1.080 954 020 67 e13",
+  "uncertainty": 3400,
+  "uncertainty_string": "0.000 000 000 34 e13",
+  "unit": "K",
+  "exact": false,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

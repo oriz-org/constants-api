@@ -1,0 +1,133 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+<Layout title="Explorer &mdash; Physics Constants" path="/explorer">
+  <section class="mx-auto max-w-5xl px-6 pt-16 pb-8">
+    <p class="font-mono text-xs uppercase tracking-wider text-indigo-600 dark:text-indigo-400">Interactive</p>
+    <h1 class="mt-2 text-4xl font-bold tracking-tight">Live explorer</h1>
+    <p class="mt-3 max-w-2xl text-zinc-600 dark:text-zinc-400">Pick a category, then a constant &mdash; the response below is fetched live from this site's own JSON endpoints. No server, no API key.</p>
+  </section>
+
+  <section class="mx-auto max-w-5xl px-6 py-8">
+    <form id="explorer-form" class="grid gap-4 sm:grid-cols-2">
+      <label class="block">
+        <span class="block text-sm font-medium text-zinc-700 dark:text-zinc-300">Category</span>
+        <select
+          id="cat-select"
+          class="mt-2 w-full rounded-md border border-zinc-300 bg-white px-3 py-2 font-mono text-sm shadow-sm focus:border-indigo-500 focus:outline-none focus:ring-1 focus:ring-indigo-500 dark:border-zinc-700 dark:bg-zinc-900"
+        >
+          <option value="">Loading&hellip;</option>
+        </select>
+      </label>
+      <label class="block">
+        <span class="block text-sm font-medium text-zinc-700 dark:text-zinc-300">Constant</span>
+        <select
+          id="slug-select"
+          class="mt-2 w-full rounded-md border border-zinc-300 bg-white px-3 py-2 font-mono text-sm shadow-sm focus:border-indigo-500 focus:outline-none focus:ring-1 focus:ring-indigo-500 disabled:opacity-50 dark:border-zinc-700 dark:bg-zinc-900"
+          disabled
+        >
+          <option value="">Pick a category first</option>
+        </select>
+      </label>
+    </form>
+
+    <div class="mt-8">
+      <div class="flex items-center justify-between">
+        <span class="text-xs font-semibold uppercase tracking-wider text-zinc-500 dark:text-zinc-500">Response</span>
+        <a
+          id="endpoint-link"
+          href="#"
+          class="font-mono text-xs text-zinc-600 underline decoration-zinc-400 underline-offset-4 hover:text-indigo-600 dark:text-zinc-400 dark:hover:text-indigo-400"
+          target="_blank"
+          rel="noopener noreferrer"
+        ></a>
+      </div>
+      <pre
+        id="result"
+        class="mt-3 min-h-[260px] overflow-x-auto rounded-md border border-zinc-200 bg-zinc-50 p-4 text-sm dark:border-zinc-800 dark:bg-zinc-900"
+      ><code id="result-code" class="font-mono text-zinc-800 dark:text-zinc-200">Select a constant above.</code></pre>
+    </div>
+  </section>
+
+  <script is:inline>
+    (async function () {
+      const catSelect = document.getElementById('cat-select');
+      const slugSelect = document.getElementById('slug-select');
+      const resultCode = document.getElementById('result-code');
+      const endpointLink = document.getElementById('endpoint-link');
+
+      let allRecords = [];
+
+      function setResult(text, endpoint) {
+        resultCode.textContent = text;
+        if (endpoint) {
+          endpointLink.textContent = endpoint;
+          endpointLink.href = endpoint;
+        } else {
+          endpointLink.textContent = '';
+          endpointLink.removeAttribute('href');
+        }
+      }
+
+      async function loadAll() {
+        try {
+          const [allRes, catRes] = await Promise.all([
+            fetch('/all.json'),
+            fetch('/categories.json'),
+          ]);
+          if (!allRes.ok) throw new Error('all.json HTTP ' + allRes.status);
+          if (!catRes.ok) throw new Error('categories.json HTTP ' + catRes.status);
+          allRecords = await allRes.json();
+          const cats = await catRes.json();
+          catSelect.innerHTML = '<option value="">Select a category&hellip;</option>' +
+            cats
+              .map((c) => '<option value="' + c.category + '">' + c.category + ' (' + c.count + ')</option>')
+              .join('');
+        } catch (err) {
+          catSelect.innerHTML = '<option value="">Failed to load</option>';
+          setResult('Failed to load data: ' + err.message);
+        }
+      }
+
+      function populateConstants(category) {
+        const matching = allRecords.filter((r) => r.category === category);
+        slugSelect.innerHTML = '<option value="">Select a constant&hellip;</option>' +
+          matching
+            .map((r) => '<option value="' + r.slug + '">' + r.name + '</option>')
+            .join('');
+        slugSelect.disabled = false;
+      }
+
+      async function loadConstant(slug) {
+        const endpoint = '/constants/' + slug + '.json';
+        setResult('Loading ' + endpoint + '…', endpoint);
+        try {
+          const res = await fetch(endpoint);
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const data = await res.json();
+          setResult(JSON.stringify(data, null, 2), endpoint);
+        } catch (err) {
+          setResult('Failed to load ' + endpoint + ': ' + err.message);
+        }
+      }
+
+      catSelect.addEventListener('change', (e) => {
+        const cat = e.target.value;
+        if (cat) {
+          populateConstants(cat);
+          setResult('Select a constant above.');
+        } else {
+          slugSelect.disabled = true;
+          slugSelect.innerHTML = '<option value="">Pick a category first</option>';
+          setResult('Select a constant above.');
+        }
+      });
+
+      slugSelect.addEventListener('change', (e) => {
+        if (e.target.value) loadConstant(e.target.value);
+      });
+
+      await loadAll();
+    })();
+  </script>
+</Layout>

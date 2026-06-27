@@ -1,0 +1,13 @@
+{
+  "slug": "tau-mass",
+  "name": "tau mass",
+  "value": 3.16754e-27,
+  "value_string": "3.167 54 e-27",
+  "uncertainty": 2.1e-31,
+  "uncertainty_string": "0.000 21 e-27",
+  "unit": "kg",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

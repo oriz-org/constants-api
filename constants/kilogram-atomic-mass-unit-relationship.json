@@ -1,0 +1,13 @@
+{
+  "slug": "kilogram-atomic-mass-unit-relationship",
+  "name": "kilogram-atomic mass unit relationship",
+  "value": 6.0221407537e+26,
+  "value_string": "6.022 140 7537 e26",
+  "uncertainty": 190000000000000000,
+  "uncertainty_string": "0.000 000 0019 e26",
+  "unit": "u",
+  "exact": false,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

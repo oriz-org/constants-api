@@ -1,0 +1,13 @@
+{
+  "slug": "proton-relative-atomic-mass",
+  "name": "proton relative atomic mass",
+  "value": 1.0072764665789,
+  "value_string": "1.007 276 466 5789",
+  "uncertainty": 8.3e-12,
+  "uncertainty_string": "0.000 000 000 0083",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

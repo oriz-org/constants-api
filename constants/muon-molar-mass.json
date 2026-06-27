@@ -1,0 +1,13 @@
+{
+  "slug": "muon-molar-mass",
+  "name": "muon molar mass",
+  "value": 0.0001134289258,
+  "value_string": "1.134 289 258 e-4",
+  "uncertainty": 2.5e-12,
+  "uncertainty_string": "0.000 000 025 e-4",
+  "unit": "kg mol^-1",
+  "exact": false,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

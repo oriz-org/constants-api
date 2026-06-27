@@ -1,0 +1,13 @@
+{
+  "slug": "wien-wavelength-displacement-law-constant",
+  "name": "Wien wavelength displacement law constant",
+  "value": 0.002897771955,
+  "value_string": "2.897 771 955... e-3",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "m K",
+  "exact": true,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

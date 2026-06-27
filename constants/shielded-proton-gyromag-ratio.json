@@ -1,0 +1,13 @@
+{
+  "slug": "shielded-proton-gyromag-ratio",
+  "name": "shielded proton gyromag. ratio",
+  "value": 267515319.4,
+  "value_string": "2.675 153 194 e8",
+  "uncertainty": 1.1,
+  "uncertainty_string": "0.000 000 011 e8",
+  "unit": "s^-1 T^-1",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

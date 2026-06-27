@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-unit-of-electric-polarizability",
+  "name": "atomic unit of electric polarizability",
+  "value": 1.64877727212e-41,
+  "value_string": "1.648 777 272 12 e-41",
+  "uncertainty": 5.1e-51,
+  "uncertainty_string": "0.000 000 000 51 e-41",
+  "unit": "C^2 m^2 J^-1",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

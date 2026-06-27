@@ -1,0 +1,13 @@
+{
+  "slug": "vacuum-electric-permittivity",
+  "name": "vacuum electric permittivity",
+  "value": 8.8541878188e-12,
+  "value_string": "8.854 187 8188 e-12",
+  "uncertainty": 1.4e-21,
+  "uncertainty_string": "0.000 000 0014 e-12",
+  "unit": "F m^-1",
+  "exact": false,
+  "category": "universal",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

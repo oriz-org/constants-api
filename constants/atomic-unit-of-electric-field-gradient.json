@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-unit-of-electric-field-gradient",
+  "name": "atomic unit of electric field gradient",
+  "value": 9.7173624424e+21,
+  "value_string": "9.717 362 4424 e21",
+  "uncertainty": 3000000000000,
+  "uncertainty_string": "0.000 000 0030 e21",
+  "unit": "V m^-2",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

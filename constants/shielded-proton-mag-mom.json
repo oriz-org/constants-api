@@ -1,0 +1,13 @@
+{
+  "slug": "shielded-proton-mag-mom",
+  "name": "shielded proton mag. mom.",
+  "value": 1.410570583e-26,
+  "value_string": "1.410 570 5830 e-26",
+  "uncertainty": 5.8e-35,
+  "uncertainty_string": "0.000 000 0058 e-26",
+  "unit": "J T^-1",
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

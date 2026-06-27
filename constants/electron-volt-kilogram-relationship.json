@@ -1,0 +1,13 @@
+{
+  "slug": "electron-volt-kilogram-relationship",
+  "name": "electron volt-kilogram relationship",
+  "value": 1.782661921e-36,
+  "value_string": "1.782 661 921... e-36",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "kg",
+  "exact": true,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

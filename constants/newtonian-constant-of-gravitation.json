@@ -1,0 +1,13 @@
+{
+  "slug": "newtonian-constant-of-gravitation",
+  "name": "Newtonian constant of gravitation",
+  "value": 6.6743e-11,
+  "value_string": "6.674 30 e-11",
+  "uncertainty": 1.5e-15,
+  "uncertainty_string": "0.000 15 e-11",
+  "unit": "m^3 kg^-1 s^-2",
+  "exact": false,
+  "category": "universal",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

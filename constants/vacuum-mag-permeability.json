@@ -1,0 +1,13 @@
+{
+  "slug": "vacuum-mag-permeability",
+  "name": "vacuum mag. permeability",
+  "value": 0.00000125663706127,
+  "value_string": "1.256 637 061 27 e-6",
+  "uncertainty": 2e-16,
+  "uncertainty_string": "0.000 000 000 20 e-6",
+  "unit": "N A^-2",
+  "exact": false,
+  "category": "universal",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

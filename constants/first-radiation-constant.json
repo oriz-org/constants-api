@@ -1,0 +1,13 @@
+{
+  "slug": "first-radiation-constant",
+  "name": "first radiation constant",
+  "value": 3.741771852e-16,
+  "value_string": "3.741 771 852... e-16",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "W m^2",
+  "exact": true,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

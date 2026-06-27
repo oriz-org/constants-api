@@ -1,0 +1,13 @@
+{
+  "slug": "w-to-z-mass-ratio",
+  "name": "W to Z mass ratio",
+  "value": 0.88145,
+  "value_string": "0.881 45",
+  "uncertainty": 0.00013,
+  "uncertainty_string": "0.000 13",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

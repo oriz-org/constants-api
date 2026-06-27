@@ -1,0 +1,13 @@
+{
+  "slug": "reduced-tau-compton-wavelength",
+  "name": "reduced tau Compton wavelength",
+  "value": 1.110538e-16,
+  "value_string": "1.110 538 e-16",
+  "uncertainty": 7.5e-21,
+  "uncertainty_string": "0.000 075 e-16",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

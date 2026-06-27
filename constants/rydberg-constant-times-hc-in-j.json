@@ -1,0 +1,13 @@
+{
+  "slug": "rydberg-constant-times-hc-in-j",
+  "name": "Rydberg constant times hc in J",
+  "value": 2.179872361103e-18,
+  "value_string": "2.179 872 361 1030 e-18",
+  "uncertainty": 2.4e-30,
+  "uncertainty_string": "0.000 000 000 0024 e-18",
+  "unit": "J",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

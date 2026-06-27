@@ -1,0 +1,13 @@
+{
+  "slug": "conventional-value-of-farad-90",
+  "name": "conventional value of farad-90",
+  "value": 0.9999999822,
+  "value_string": "0.999 999 982 20...",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "F",
+  "exact": true,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

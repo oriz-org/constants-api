@@ -1,0 +1,13 @@
+{
+  "slug": "triton-proton-mass-ratio",
+  "name": "triton-proton mass ratio",
+  "value": 2.99371703403,
+  "value_string": "2.993 717 034 03",
+  "uncertainty": 1e-10,
+  "uncertainty_string": "0.000 000 000 10",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

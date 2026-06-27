@@ -1,0 +1,13 @@
+{
+  "slug": "hyperfine-transition-frequency-of-cs-133",
+  "name": "hyperfine transition frequency of Cs-133",
+  "value": 9192631770,
+  "value_string": "9 192 631 770",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "Hz",
+  "exact": true,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

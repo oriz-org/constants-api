@@ -1,0 +1,13 @@
+{
+  "slug": "planck-length",
+  "name": "Planck length",
+  "value": 1.616255e-35,
+  "value_string": "1.616 255 e-35",
+  "uncertainty": 1.8e-40,
+  "uncertainty_string": "0.000 018 e-35",
+  "unit": "m",
+  "exact": false,
+  "category": "universal",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

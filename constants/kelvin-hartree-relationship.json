@@ -1,0 +1,13 @@
+{
+  "slug": "kelvin-hartree-relationship",
+  "name": "kelvin-hartree relationship",
+  "value": 0.0000031668115634564,
+  "value_string": "3.166 811 563 4564 e-6",
+  "uncertainty": 3.5e-18,
+  "uncertainty_string": "0.000 000 000 0035 e-6",
+  "unit": "E_h",
+  "exact": false,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

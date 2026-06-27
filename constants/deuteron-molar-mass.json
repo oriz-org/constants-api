@@ -1,0 +1,13 @@
+{
+  "slug": "deuteron-molar-mass",
+  "name": "deuteron molar mass",
+  "value": 0.00201355321466,
+  "value_string": "2.013 553 214 66 e-3",
+  "uncertainty": 6.3e-13,
+  "uncertainty_string": "0.000 000 000 63 e-3",
+  "unit": "kg mol^-1",
+  "exact": false,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

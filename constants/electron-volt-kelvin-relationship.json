@@ -1,0 +1,13 @@
+{
+  "slug": "electron-volt-kelvin-relationship",
+  "name": "electron volt-kelvin relationship",
+  "value": 11604.51812,
+  "value_string": "1.160 451 812... e4",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "K",
+  "exact": true,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

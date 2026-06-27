@@ -1,0 +1,13 @@
+{
+  "slug": "joule-hartree-relationship",
+  "name": "joule-hartree relationship",
+  "value": 229371227839690000,
+  "value_string": "2.293 712 278 3969 e17",
+  "uncertainty": 250000,
+  "uncertainty_string": "0.000 000 000 0025 e17",
+  "unit": "E_h",
+  "exact": false,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

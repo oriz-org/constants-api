@@ -1,0 +1,13 @@
+{
+  "slug": "neutron-muon-mass-ratio",
+  "name": "neutron-muon mass ratio",
+  "value": 8.89248408,
+  "value_string": "8.892 484 08",
+  "uncertainty": 2e-7,
+  "uncertainty_string": "0.000 000 20",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

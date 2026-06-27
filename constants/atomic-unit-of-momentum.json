@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-unit-of-momentum",
+  "name": "atomic unit of momentum",
+  "value": 1.99285191545e-24,
+  "value_string": "1.992 851 915 45 e-24",
+  "uncertainty": 3.1e-34,
+  "uncertainty_string": "0.000 000 000 31 e-24",
+  "unit": "kg m s^-1",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

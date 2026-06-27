@@ -1,0 +1,13 @@
+{
+  "slug": "von-klitzing-constant",
+  "name": "von Klitzing constant",
+  "value": 25812.80745,
+  "value_string": "25 812.807 45...",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "ohm",
+  "exact": true,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

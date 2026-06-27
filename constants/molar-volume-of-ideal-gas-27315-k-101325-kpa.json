@@ -1,0 +1,13 @@
+{
+  "slug": "molar-volume-of-ideal-gas-27315-k-101325-kpa",
+  "name": "molar volume of ideal gas (273.15 K, 101.325 kPa)",
+  "value": 0.02241396954,
+  "value_string": "22.413 969 54... e-3",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "m^3 mol^-1",
+  "exact": true,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

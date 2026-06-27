@@ -1,0 +1,13 @@
+{
+  "slug": "electron-mass-in-u",
+  "name": "electron mass in u",
+  "value": 0.0005485799090441,
+  "value_string": "5.485 799 090 441 e-4",
+  "uncertainty": 9.7e-15,
+  "uncertainty_string": "0.000 000 000 097 e-4",
+  "unit": "u",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

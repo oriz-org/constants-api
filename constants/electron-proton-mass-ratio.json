@@ -1,0 +1,13 @@
+{
+  "slug": "electron-proton-mass-ratio",
+  "name": "electron-proton mass ratio",
+  "value": 0.0005446170214889,
+  "value_string": "5.446 170 214 889 e-4",
+  "uncertainty": 9.4e-15,
+  "uncertainty_string": "0.000 000 000 094 e-4",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

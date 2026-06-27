@@ -1,0 +1,13 @@
+{
+  "slug": "stefan-boltzmann-constant",
+  "name": "Stefan-Boltzmann constant",
+  "value": 5.670374419e-8,
+  "value_string": "5.670 374 419... e-8",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "W m^-2 K^-4",
+  "exact": true,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

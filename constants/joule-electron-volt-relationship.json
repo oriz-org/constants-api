@@ -1,0 +1,13 @@
+{
+  "slug": "joule-electron-volt-relationship",
+  "name": "joule-electron volt relationship",
+  "value": 6241509074000000000,
+  "value_string": "6.241 509 074... e18",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "eV",
+  "exact": true,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

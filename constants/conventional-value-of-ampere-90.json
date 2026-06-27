@@ -1,0 +1,13 @@
+{
+  "slug": "conventional-value-of-ampere-90",
+  "name": "conventional value of ampere-90",
+  "value": 1.00000008887,
+  "value_string": "1.000 000 088 87...",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "A",
+  "exact": true,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

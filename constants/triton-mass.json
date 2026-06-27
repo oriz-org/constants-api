@@ -1,0 +1,13 @@
+{
+  "slug": "triton-mass",
+  "name": "triton mass",
+  "value": 5.0073567512e-27,
+  "value_string": "5.007 356 7512 e-27",
+  "uncertainty": 1.6e-36,
+  "uncertainty_string": "0.000 000 0016 e-27",
+  "unit": "kg",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

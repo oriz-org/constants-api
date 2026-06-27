@@ -1,0 +1,13 @@
+{
+  "slug": "speed-of-light-in-vacuum",
+  "name": "speed of light in vacuum",
+  "value": 299792458,
+  "value_string": "299 792 458",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "m s^-1",
+  "exact": true,
+  "category": "universal",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

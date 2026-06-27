@@ -1,0 +1,13 @@
+{
+  "slug": "nuclear-magneton-in-mhz-t",
+  "name": "nuclear magneton in MHz/T",
+  "value": 7.6225932188,
+  "value_string": "7.622 593 2188",
+  "uncertainty": 2.4e-9,
+  "uncertainty_string": "0.000 000 0024",
+  "unit": "MHz T^-1",
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

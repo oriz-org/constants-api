@@ -1,0 +1,13 @@
+{
+  "slug": "hertz-atomic-mass-unit-relationship",
+  "name": "hertz-atomic mass unit relationship",
+  "value": 4.439821659e-24,
+  "value_string": "4.439 821 6590 e-24",
+  "uncertainty": 1.4e-33,
+  "uncertainty_string": "0.000 000 0014 e-24",
+  "unit": "u",
+  "exact": false,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

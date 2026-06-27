@@ -1,0 +1,13 @@
+{
+  "slug": "bohr-magneton-in-k-t",
+  "name": "Bohr magneton in K/T",
+  "value": 0.67171381472,
+  "value_string": "0.671 713 814 72",
+  "uncertainty": 2.1e-10,
+  "uncertainty_string": "0.000 000 000 21",
+  "unit": "K T^-1",
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

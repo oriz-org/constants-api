@@ -1,0 +1,13 @@
+{
+  "slug": "triton-relative-atomic-mass",
+  "name": "triton relative atomic mass",
+  "value": 3.01550071597,
+  "value_string": "3.015 500 715 97",
+  "uncertainty": 1e-10,
+  "uncertainty_string": "0.000 000 000 10",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

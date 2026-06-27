@@ -1,0 +1,13 @@
+{
+  "slug": "neutron-proton-mass-difference-energy-equivalent",
+  "name": "neutron-proton mass difference energy equivalent",
+  "value": 2.07214712e-13,
+  "value_string": "2.072 147 12 e-13",
+  "uncertainty": 6e-20,
+  "uncertainty_string": "0.000 000 60 e-13",
+  "unit": "J",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

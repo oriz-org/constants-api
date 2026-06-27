@@ -1,0 +1,13 @@
+{
+  "slug": "nuclear-magneton-in-inverse-meter-per-tesla",
+  "name": "nuclear magneton in inverse meter per tesla",
+  "value": 0.0254262341009,
+  "value_string": "2.542 623 410 09 e-2",
+  "uncertainty": 7.9e-12,
+  "uncertainty_string": "0.000 000 000 79 e-2",
+  "unit": "m^-1 T^-1",
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

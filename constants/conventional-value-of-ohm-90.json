@@ -1,0 +1,13 @@
+{
+  "slug": "conventional-value-of-ohm-90",
+  "name": "conventional value of ohm-90",
+  "value": 1.00000001779,
+  "value_string": "1.000 000 017 79...",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "ohm",
+  "exact": true,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "neutron-proton-mass-difference-energy-equivalent-in-mev",
+  "name": "neutron-proton mass difference energy equivalent in MeV",
+  "value": 1.29333251,
+  "value_string": "1.293 332 51",
+  "uncertainty": 3.8e-7,
+  "uncertainty_string": "0.000 000 38",
+  "unit": "MeV",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

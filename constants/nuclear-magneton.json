@@ -1,0 +1,13 @@
+{
+  "slug": "nuclear-magneton",
+  "name": "nuclear magneton",
+  "value": 5.0507837393e-27,
+  "value_string": "5.050 783 7393 e-27",
+  "uncertainty": 1.6e-36,
+  "uncertainty_string": "0.000 000 0016 e-27",
+  "unit": "J T^-1",
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "elementary-charge-over-h-bar",
+  "name": "elementary charge over h-bar",
+  "value": 1519267447000000,
+  "value_string": "1.519 267 447... e15",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "A J^-1",
+  "exact": true,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

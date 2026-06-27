@@ -1,0 +1,13 @@
+{
+  "slug": "hartree-electron-volt-relationship",
+  "name": "hartree-electron volt relationship",
+  "value": 27.211386245981,
+  "value_string": "27.211 386 245 981",
+  "uncertainty": 3e-11,
+  "uncertainty_string": "0.000 000 000 030",
+  "unit": "eV",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

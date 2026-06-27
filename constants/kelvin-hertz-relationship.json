@@ -1,0 +1,13 @@
+{
+  "slug": "kelvin-hertz-relationship",
+  "name": "kelvin-hertz relationship",
+  "value": 20836619120,
+  "value_string": "2.083 661 912... e10",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "Hz",
+  "exact": true,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

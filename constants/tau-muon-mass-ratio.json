@@ -1,0 +1,13 @@
+{
+  "slug": "tau-muon-mass-ratio",
+  "name": "tau-muon mass ratio",
+  "value": 16.817,
+  "value_string": "16.8170",
+  "uncertainty": 0.0011,
+  "uncertainty_string": "0.0011",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

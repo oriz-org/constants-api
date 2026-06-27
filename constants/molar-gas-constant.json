@@ -1,0 +1,13 @@
+{
+  "slug": "molar-gas-constant",
+  "name": "molar gas constant",
+  "value": 8.314462618,
+  "value_string": "8.314 462 618...",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "J mol^-1 K^-1",
+  "exact": true,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

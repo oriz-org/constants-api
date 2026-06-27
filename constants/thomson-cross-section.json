@@ -1,0 +1,13 @@
+{
+  "slug": "thomson-cross-section",
+  "name": "Thomson cross section",
+  "value": 6.6524587051e-29,
+  "value_string": "6.652 458 7051 e-29",
+  "uncertainty": 6.2e-38,
+  "uncertainty_string": "0.000 000 0062 e-29",
+  "unit": "m^2",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

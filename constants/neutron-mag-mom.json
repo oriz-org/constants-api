@@ -1,0 +1,13 @@
+{
+  "slug": "neutron-mag-mom",
+  "name": "neutron mag. mom.",
+  "value": -9.6623653e-27,
+  "value_string": "-9.662 3653 e-27",
+  "uncertainty": 2.3e-33,
+  "uncertainty_string": "0.000 0023 e-27",
+  "unit": "J T^-1",
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

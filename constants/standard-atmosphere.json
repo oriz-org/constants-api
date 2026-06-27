@@ -1,0 +1,13 @@
+{
+  "slug": "standard-atmosphere",
+  "name": "standard atmosphere",
+  "value": 101325,
+  "value_string": "101 325",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "Pa",
+  "exact": true,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

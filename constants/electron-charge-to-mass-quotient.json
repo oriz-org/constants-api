@@ -1,0 +1,13 @@
+{
+  "slug": "electron-charge-to-mass-quotient",
+  "name": "electron charge to mass quotient",
+  "value": -175882000838,
+  "value_string": "-1.758 820 008 38 e11",
+  "uncertainty": 55,
+  "uncertainty_string": "0.000 000 000 55 e11",
+  "unit": "C kg^-1",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

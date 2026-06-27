@@ -1,0 +1,13 @@
+{
+  "slug": "quantum-of-circulation-times-2",
+  "name": "quantum of circulation times 2",
+  "value": 0.00072738950934,
+  "value_string": "7.273 895 0934 e-4",
+  "uncertainty": 2.3e-13,
+  "uncertainty_string": "0.000 000 0023 e-4",
+  "unit": "m^2 s^-1",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

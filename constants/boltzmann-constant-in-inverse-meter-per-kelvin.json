@@ -1,0 +1,13 @@
+{
+  "slug": "boltzmann-constant-in-inverse-meter-per-kelvin",
+  "name": "Boltzmann constant in inverse meter per kelvin",
+  "value": 69.50348004,
+  "value_string": "69.503 480 04...",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "m^-1 K^-1",
+  "exact": true,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

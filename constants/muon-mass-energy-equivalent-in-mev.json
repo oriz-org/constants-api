@@ -1,0 +1,13 @@
+{
+  "slug": "muon-mass-energy-equivalent-in-mev",
+  "name": "muon mass energy equivalent in MeV",
+  "value": 105.6583755,
+  "value_string": "105.658 3755",
+  "uncertainty": 0.0000023,
+  "uncertainty_string": "0.000 0023",
+  "unit": "MeV",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "molybdenum-x-unit",
+  "name": "Molybdenum x unit",
+  "value": 1.00209952e-13,
+  "value_string": "1.002 099 52 e-13",
+  "uncertainty": 5.3e-20,
+  "uncertainty_string": "0.000 000 53 e-13",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

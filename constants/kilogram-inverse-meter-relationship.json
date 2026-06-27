@@ -1,0 +1,13 @@
+{
+  "slug": "kilogram-inverse-meter-relationship",
+  "name": "kilogram-inverse meter relationship",
+  "value": 4.524438335e+41,
+  "value_string": "4.524 438 335... e41",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "m^-1",
+  "exact": true,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

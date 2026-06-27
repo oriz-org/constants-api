@@ -1,0 +1,13 @@
+{
+  "slug": "fermi-coupling-constant",
+  "name": "Fermi coupling constant",
+  "value": 0.000011663787,
+  "value_string": "1.166 3787 e-5",
+  "uncertainty": 6e-12,
+  "uncertainty_string": "0.000 0006 e-5",
+  "unit": "GeV^-2",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

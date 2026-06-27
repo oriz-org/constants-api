@@ -1,0 +1,13 @@
+{
+  "slug": "reduced-muon-compton-wavelength",
+  "name": "reduced muon Compton wavelength",
+  "value": 1.867594306e-15,
+  "value_string": "1.867 594 306 e-15",
+  "uncertainty": 4.2e-23,
+  "uncertainty_string": "0.000 000 042 e-15",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

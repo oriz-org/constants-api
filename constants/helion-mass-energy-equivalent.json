@@ -1,0 +1,13 @@
+{
+  "slug": "helion-mass-energy-equivalent",
+  "name": "helion mass energy equivalent",
+  "value": 4.4995394185e-10,
+  "value_string": "4.499 539 4185 e-10",
+  "uncertainty": 1.4e-19,
+  "uncertainty_string": "0.000 000 0014 e-10",
+  "unit": "J",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

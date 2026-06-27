@@ -1,0 +1,13 @@
+{
+  "slug": "newtonian-constant-of-gravitation-over-h-bar-c",
+  "name": "Newtonian constant of gravitation over h-bar c",
+  "value": 6.70883e-39,
+  "value_string": "6.708 83 e-39",
+  "uncertainty": 1.5e-43,
+  "uncertainty_string": "0.000 15 e-39",
+  "unit": "(GeV/c^2)^-2",
+  "exact": false,
+  "category": "universal",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-unit-of-length",
+  "name": "atomic unit of length",
+  "value": 5.29177210544e-11,
+  "value_string": "5.291 772 105 44 e-11",
+  "uncertainty": 8.2e-21,
+  "uncertainty_string": "0.000 000 000 82 e-11",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

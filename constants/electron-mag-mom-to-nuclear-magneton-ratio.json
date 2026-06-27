@@ -1,0 +1,13 @@
+{
+  "slug": "electron-mag-mom-to-nuclear-magneton-ratio",
+  "name": "electron mag. mom. to nuclear magneton ratio",
+  "value": -1838.281971877,
+  "value_string": "-1838.281 971 877",
+  "uncertainty": 3.2e-8,
+  "uncertainty_string": "0.000 000 032",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

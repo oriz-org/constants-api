@@ -1,0 +1,13 @@
+{
+  "slug": "alpha-particle-mass-energy-equivalent",
+  "name": "alpha particle mass energy equivalent",
+  "value": 5.9719201997e-10,
+  "value_string": "5.971 920 1997 e-10",
+  "uncertainty": 1.9e-19,
+  "uncertainty_string": "0.000 000 0019 e-10",
+  "unit": "J",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

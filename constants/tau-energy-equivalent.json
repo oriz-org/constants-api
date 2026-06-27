@@ -1,0 +1,13 @@
+{
+  "slug": "tau-energy-equivalent",
+  "name": "tau energy equivalent",
+  "value": 1776.86,
+  "value_string": "1776.86",
+  "uncertainty": 0.12,
+  "uncertainty_string": "0.12",
+  "unit": "MeV",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

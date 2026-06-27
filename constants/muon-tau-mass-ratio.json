@@ -1,0 +1,13 @@
+{
+  "slug": "muon-tau-mass-ratio",
+  "name": "muon-tau mass ratio",
+  "value": 0.0594635,
+  "value_string": "5.946 35 e-2",
+  "uncertainty": 0.000004,
+  "uncertainty_string": "0.000 40 e-2",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

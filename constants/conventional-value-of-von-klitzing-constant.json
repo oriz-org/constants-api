@@ -1,0 +1,13 @@
+{
+  "slug": "conventional-value-of-von-klitzing-constant",
+  "name": "conventional value of von Klitzing constant",
+  "value": 25812.807,
+  "value_string": "25 812.807",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "ohm",
+  "exact": true,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

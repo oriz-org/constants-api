@@ -1,0 +1,13 @@
+{
+  "slug": "neutron-mass",
+  "name": "neutron mass",
+  "value": 1.67492750056e-27,
+  "value_string": "1.674 927 500 56 e-27",
+  "uncertainty": 8.5e-37,
+  "uncertainty_string": "0.000 000 000 85 e-27",
+  "unit": "kg",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

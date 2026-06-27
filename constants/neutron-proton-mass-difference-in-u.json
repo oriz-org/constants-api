@@ -1,0 +1,13 @@
+{
+  "slug": "neutron-proton-mass-difference-in-u",
+  "name": "neutron-proton mass difference in u",
+  "value": 0.00138844948,
+  "value_string": "1.388 449 48 e-3",
+  "uncertainty": 4e-10,
+  "uncertainty_string": "0.000 000 40 e-3",
+  "unit": "u",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

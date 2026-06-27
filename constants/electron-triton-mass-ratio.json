@@ -1,0 +1,13 @@
+{
+  "slug": "electron-triton-mass-ratio",
+  "name": "electron-triton mass ratio",
+  "value": 0.0001819200062327,
+  "value_string": "1.819 200 062 327 e-4",
+  "uncertainty": 6.8e-15,
+  "uncertainty_string": "0.000 000 000 068 e-4",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

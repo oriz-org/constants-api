@@ -1,0 +1,13 @@
+{
+  "slug": "helion-mag-mom",
+  "name": "helion mag. mom.",
+  "value": -1.07461755198e-26,
+  "value_string": "-1.074 617 551 98 e-26",
+  "uncertainty": 9.3e-36,
+  "uncertainty_string": "0.000 000 000 93 e-26",
+  "unit": "J T^-1",
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

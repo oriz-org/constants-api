@@ -1,0 +1,13 @@
+{
+  "slug": "electron-neutron-mag-mom-ratio",
+  "name": "electron-neutron mag. mom. ratio",
+  "value": 960.92048,
+  "value_string": "960.920 48",
+  "uncertainty": 0.00023,
+  "uncertainty_string": "0.000 23",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

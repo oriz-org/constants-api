@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-unit-of-electric-field",
+  "name": "atomic unit of electric field",
+  "value": 514220675112,
+  "value_string": "5.142 206 751 12 e11",
+  "uncertainty": 80,
+  "uncertainty_string": "0.000 000 000 80 e11",
+  "unit": "V m^-1",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

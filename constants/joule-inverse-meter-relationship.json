@@ -1,0 +1,13 @@
+{
+  "slug": "joule-inverse-meter-relationship",
+  "name": "joule-inverse meter relationship",
+  "value": 5.034116567e+24,
+  "value_string": "5.034 116 567... e24",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "m^-1",
+  "exact": true,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-unit-of-permittivity",
+  "name": "atomic unit of permittivity",
+  "value": 1.1126500562e-10,
+  "value_string": "1.112 650 056 20 e-10",
+  "uncertainty": 1.7e-20,
+  "uncertainty_string": "0.000 000 000 17 e-10",
+  "unit": "F m^-1",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "shielding-difference-of-t-and-p-in-ht",
+  "name": "shielding difference of t and p in HT",
+  "value": 2.3945e-8,
+  "value_string": "2.394 50 e-8",
+  "uncertainty": 2e-12,
+  "uncertainty_string": "0.000 20 e-8",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

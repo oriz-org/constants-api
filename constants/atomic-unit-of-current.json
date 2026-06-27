@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-unit-of-current",
+  "name": "atomic unit of current",
+  "value": 0.0066236182375082,
+  "value_string": "6.623 618 237 5082 e-3",
+  "uncertainty": 7.2e-15,
+  "uncertainty_string": "0.000 000 000 0072 e-3",
+  "unit": "A",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "shielded-proton-mag-mom-to-bohr-magneton-ratio",
+  "name": "shielded proton mag. mom. to Bohr magneton ratio",
+  "value": 0.0015209931551,
+  "value_string": "1.520 993 1551 e-3",
+  "uncertainty": 6.2e-12,
+  "uncertainty_string": "0.000 000 0062 e-3",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

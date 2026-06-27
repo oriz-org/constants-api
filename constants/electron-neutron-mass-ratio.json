@@ -1,0 +1,13 @@
+{
+  "slug": "electron-neutron-mass-ratio",
+  "name": "electron-neutron mass ratio",
+  "value": 0.00054386734416,
+  "value_string": "5.438 673 4416 e-4",
+  "uncertainty": 2.2e-13,
+  "uncertainty_string": "0.000 000 0022 e-4",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "electron-muon-mass-ratio",
+  "name": "electron-muon mass ratio",
+  "value": 0.0048363317,
+  "value_string": "4.836 331 70 e-3",
+  "uncertainty": 1.1e-10,
+  "uncertainty_string": "0.000 000 11 e-3",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

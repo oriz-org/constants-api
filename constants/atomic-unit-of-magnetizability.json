@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-unit-of-magnetizability",
+  "name": "atomic unit of magnetizability",
+  "value": 7.8910365794e-29,
+  "value_string": "7.891 036 5794 e-29",
+  "uncertainty": 4.9e-38,
+  "uncertainty_string": "0.000 000 0049 e-29",
+  "unit": "J T^-2",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

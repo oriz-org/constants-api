@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-unit-of-mag-flux-density",
+  "name": "atomic unit of mag. flux density",
+  "value": 235051.757077,
+  "value_string": "2.350 517 570 77 e5",
+  "uncertainty": 0.000073,
+  "uncertainty_string": "0.000 000 000 73 e5",
+  "unit": "T",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "angstrom-star",
+  "name": "Angstrom star",
+  "value": 1.00001495e-10,
+  "value_string": "1.000 014 95 e-10",
+  "uncertainty": 9e-17,
+  "uncertainty_string": "0.000 000 90 e-10",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "helion-g-factor",
+  "name": "helion g factor",
+  "value": -4.2552506995,
+  "value_string": "-4.255 250 6995",
+  "uncertainty": 3.4e-9,
+  "uncertainty_string": "0.000 000 0034",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

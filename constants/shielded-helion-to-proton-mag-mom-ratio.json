@@ -1,0 +1,13 @@
+{
+  "slug": "shielded-helion-to-proton-mag-mom-ratio",
+  "name": "shielded helion to proton mag. mom. ratio",
+  "value": -0.76176657721,
+  "value_string": "-0.761 766 577 21",
+  "uncertainty": 6.6e-10,
+  "uncertainty_string": "0.000 000 000 66",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

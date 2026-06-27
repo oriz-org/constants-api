@@ -1,0 +1,13 @@
+{
+  "slug": "kelvin-joule-relationship",
+  "name": "kelvin-joule relationship",
+  "value": 1.380649e-23,
+  "value_string": "1.380 649 e-23",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "J",
+  "exact": true,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

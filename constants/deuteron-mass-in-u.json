@@ -1,0 +1,13 @@
+{
+  "slug": "deuteron-mass-in-u",
+  "name": "deuteron mass in u",
+  "value": 2.013553212544,
+  "value_string": "2.013 553 212 544",
+  "uncertainty": 1.5e-11,
+  "uncertainty_string": "0.000 000 000 015",
+  "unit": "u",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

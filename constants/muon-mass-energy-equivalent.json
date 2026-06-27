@@ -1,0 +1,13 @@
+{
+  "slug": "muon-mass-energy-equivalent",
+  "name": "muon mass energy equivalent",
+  "value": 1.692833804e-11,
+  "value_string": "1.692 833 804 e-11",
+  "uncertainty": 3.8e-19,
+  "uncertainty_string": "0.000 000 038 e-11",
+  "unit": "J",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

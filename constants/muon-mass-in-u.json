@@ -1,0 +1,13 @@
+{
+  "slug": "muon-mass-in-u",
+  "name": "muon mass in u",
+  "value": 0.1134289257,
+  "value_string": "0.113 428 9257",
+  "uncertainty": 2.5e-9,
+  "uncertainty_string": "0.000 000 0025",
+  "unit": "u",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

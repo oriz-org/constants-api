@@ -1,0 +1,13 @@
+{
+  "slug": "tau-compton-wavelength",
+  "name": "tau Compton wavelength",
+  "value": 6.97771e-16,
+  "value_string": "6.977 71 e-16",
+  "uncertainty": 4.7e-20,
+  "uncertainty_string": "0.000 47 e-16",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

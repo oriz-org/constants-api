@@ -1,0 +1,13 @@
+{
+  "slug": "shielding-difference-of-d-and-p-in-hd",
+  "name": "shielding difference of d and p in HD",
+  "value": 1.9877e-8,
+  "value_string": "1.987 70 e-8",
+  "uncertainty": 1e-12,
+  "uncertainty_string": "0.000 10 e-8",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

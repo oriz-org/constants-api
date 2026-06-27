@@ -1,0 +1,13 @@
+{
+  "slug": "kilogram-joule-relationship",
+  "name": "kilogram-joule relationship",
+  "value": 89875517870000000,
+  "value_string": "8.987 551 787... e16",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "J",
+  "exact": true,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

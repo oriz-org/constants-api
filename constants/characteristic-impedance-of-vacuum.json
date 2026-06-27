@@ -1,0 +1,13 @@
+{
+  "slug": "characteristic-impedance-of-vacuum",
+  "name": "characteristic impedance of vacuum",
+  "value": 376.730313412,
+  "value_string": "376.730 313 412",
+  "uncertainty": 5.9e-8,
+  "uncertainty_string": "0.000 000 059",
+  "unit": "ohm",
+  "exact": false,
+  "category": "universal",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

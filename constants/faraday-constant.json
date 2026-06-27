@@ -1,0 +1,13 @@
+{
+  "slug": "faraday-constant",
+  "name": "Faraday constant",
+  "value": 96485.33212,
+  "value_string": "96 485.332 12...",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "C mol^-1",
+  "exact": true,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

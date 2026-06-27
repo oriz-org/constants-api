@@ -1,0 +1,13 @@
+{
+  "slug": "electron-volt-joule-relationship",
+  "name": "electron volt-joule relationship",
+  "value": 1.602176634e-19,
+  "value_string": "1.602 176 634 e-19",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "J",
+  "exact": true,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

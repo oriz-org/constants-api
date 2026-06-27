@@ -1,0 +1,13 @@
+{
+  "slug": "natural-unit-of-action-in-ev-s",
+  "name": "natural unit of action in eV s",
+  "value": 6.582119569e-16,
+  "value_string": "6.582 119 569... e-16",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "eV s",
+  "exact": true,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

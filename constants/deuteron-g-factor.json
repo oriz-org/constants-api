@@ -1,0 +1,13 @@
+{
+  "slug": "deuteron-g-factor",
+  "name": "deuteron g factor",
+  "value": 0.8574382335,
+  "value_string": "0.857 438 2335",
+  "uncertainty": 2.2e-9,
+  "uncertainty_string": "0.000 000 0022",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "hartree-atomic-mass-unit-relationship",
+  "name": "hartree-atomic mass unit relationship",
+  "value": 2.92126231797e-8,
+  "value_string": "2.921 262 317 97 e-8",
+  "uncertainty": 9.1e-18,
+  "uncertainty_string": "0.000 000 000 91 e-8",
+  "unit": "u",
+  "exact": false,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

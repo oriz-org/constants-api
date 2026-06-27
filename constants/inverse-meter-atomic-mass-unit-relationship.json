@@ -1,0 +1,13 @@
+{
+  "slug": "inverse-meter-atomic-mass-unit-relationship",
+  "name": "inverse meter-atomic mass unit relationship",
+  "value": 1.33102504824e-15,
+  "value_string": "1.331 025 048 24 e-15",
+  "uncertainty": 4.1e-25,
+  "uncertainty_string": "0.000 000 000 41 e-15",
+  "unit": "u",
+  "exact": false,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

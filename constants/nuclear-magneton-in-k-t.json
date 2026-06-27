@@ -1,0 +1,13 @@
+{
+  "slug": "nuclear-magneton-in-k-t",
+  "name": "nuclear magneton in K/T",
+  "value": 0.00036582677706,
+  "value_string": "3.658 267 7706 e-4",
+  "uncertainty": 1.1e-13,
+  "uncertainty_string": "0.000 000 0011 e-4",
+  "unit": "K T^-1",
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

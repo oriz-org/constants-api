@@ -1,0 +1,13 @@
+{
+  "slug": "lattice-spacing-of-ideal-si-220",
+  "name": "lattice spacing of ideal Si (220)",
+  "value": 1.920155716e-10,
+  "value_string": "1.920 155 716 e-10",
+  "uncertainty": 3.2e-18,
+  "uncertainty_string": "0.000 000 032 e-10",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

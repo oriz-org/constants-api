@@ -1,0 +1,13 @@
+{
+  "slug": "tau-mass-in-u",
+  "name": "tau mass in u",
+  "value": 1.90754,
+  "value_string": "1.907 54",
+  "uncertainty": 0.00013,
+  "uncertainty_string": "0.000 13",
+  "unit": "u",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

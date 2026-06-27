@@ -1,0 +1,13 @@
+{
+  "slug": "electron-to-shielded-proton-mag-mom-ratio",
+  "name": "electron to shielded proton mag. mom. ratio",
+  "value": -658.2275856,
+  "value_string": "-658.227 5856",
+  "uncertainty": 0.0000027,
+  "uncertainty_string": "0.000 0027",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

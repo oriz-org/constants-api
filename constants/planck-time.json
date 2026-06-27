@@ -1,0 +1,13 @@
+{
+  "slug": "planck-time",
+  "name": "Planck time",
+  "value": 5.391247e-44,
+  "value_string": "5.391 247 e-44",
+  "uncertainty": 6e-49,
+  "uncertainty_string": "0.000 060 e-44",
+  "unit": "s",
+  "exact": false,
+  "category": "universal",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

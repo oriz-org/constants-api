@@ -1,0 +1,13 @@
+{
+  "slug": "molar-mass-constant",
+  "name": "molar mass constant",
+  "value": 0.00100000000105,
+  "value_string": "1.000 000 001 05 e-3",
+  "uncertainty": 3.1e-13,
+  "uncertainty_string": "0.000 000 000 31 e-3",
+  "unit": "kg mol^-1",
+  "exact": false,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

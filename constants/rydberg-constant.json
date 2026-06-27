@@ -1,0 +1,13 @@
+{
+  "slug": "rydberg-constant",
+  "name": "Rydberg constant",
+  "value": 10973731.568157,
+  "value_string": "10 973 731.568 157",
+  "uncertainty": 0.000012,
+  "uncertainty_string": "0.000 012",
+  "unit": "m^-1",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

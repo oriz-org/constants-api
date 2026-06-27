@@ -1,0 +1,13 @@
+{
+  "slug": "proton-electron-mass-ratio",
+  "name": "proton-electron mass ratio",
+  "value": 1836.152673426,
+  "value_string": "1836.152 673 426",
+  "uncertainty": 3.2e-8,
+  "uncertainty_string": "0.000 000 032",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

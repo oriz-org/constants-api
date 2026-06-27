@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-unit-of-force",
+  "name": "atomic unit of force",
+  "value": 8.2387235038e-8,
+  "value_string": "8.238 723 5038 e-8",
+  "uncertainty": 1.3e-17,
+  "uncertainty_string": "0.000 000 0013 e-8",
+  "unit": "N",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

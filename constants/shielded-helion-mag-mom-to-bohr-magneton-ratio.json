@@ -1,0 +1,13 @@
+{
+  "slug": "shielded-helion-mag-mom-to-bohr-magneton-ratio",
+  "name": "shielded helion mag. mom. to Bohr magneton ratio",
+  "value": -0.00115867149457,
+  "value_string": "-1.158 671 494 57 e-3",
+  "uncertainty": 9.4e-13,
+  "uncertainty_string": "0.000 000 000 94 e-3",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "triton-molar-mass",
+  "name": "triton molar mass",
+  "value": 0.00301550071913,
+  "value_string": "3.015 500 719 13 e-3",
+  "uncertainty": 9.4e-13,
+  "uncertainty_string": "0.000 000 000 94 e-3",
+  "unit": "kg mol^-1",
+  "exact": false,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "reduced-planck-constant-times-c-in-mev-fm",
+  "name": "reduced Planck constant times c in MeV fm",
+  "value": 197.3269804,
+  "value_string": "197.326 980 4...",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "MeV fm",
+  "exact": true,
+  "category": "universal",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

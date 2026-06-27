@@ -1,0 +1,13 @@
+{
+  "slug": "fine-structure-constant",
+  "name": "fine-structure constant",
+  "value": 0.0072973525643,
+  "value_string": "7.297 352 5643 e-3",
+  "uncertainty": 1.1e-12,
+  "uncertainty_string": "0.000 000 0011 e-3",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

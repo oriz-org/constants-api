@@ -1,0 +1,13 @@
+{
+  "slug": "proton-g-factor",
+  "name": "proton g factor",
+  "value": 5.5856946893,
+  "value_string": "5.585 694 6893",
+  "uncertainty": 1.6e-9,
+  "uncertainty_string": "0.000 000 0016",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

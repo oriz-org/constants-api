@@ -1,0 +1,13 @@
+{
+  "slug": "proton-mass-energy-equivalent",
+  "name": "proton mass energy equivalent",
+  "value": 1.50327761802e-10,
+  "value_string": "1.503 277 618 02 e-10",
+  "uncertainty": 4.7e-20,
+  "uncertainty_string": "0.000 000 000 47 e-10",
+  "unit": "J",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "deuteron-proton-mag-mom-ratio",
+  "name": "deuteron-proton mag. mom. ratio",
+  "value": 0.3070122093,
+  "value_string": "0.307 012 209 30",
+  "uncertainty": 7.9e-10,
+  "uncertainty_string": "0.000 000 000 79",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

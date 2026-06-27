@@ -1,0 +1,13 @@
+{
+  "slug": "electron-deuteron-mass-ratio",
+  "name": "electron-deuteron mass ratio",
+  "value": 0.0002724437107629,
+  "value_string": "2.724 437 107 629 e-4",
+  "uncertainty": 4.7e-15,
+  "uncertainty_string": "0.000 000 000 047 e-4",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

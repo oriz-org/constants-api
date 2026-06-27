@@ -1,0 +1,13 @@
+{
+  "slug": "muon-mag-mom",
+  "name": "muon mag. mom.",
+  "value": -4.4904483e-26,
+  "value_string": "-4.490 448 30 e-26",
+  "uncertainty": 1e-33,
+  "uncertainty_string": "0.000 000 10 e-26",
+  "unit": "J T^-1",
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "hartree-hertz-relationship",
+  "name": "hartree-hertz relationship",
+  "value": 6579683920499900,
+  "value_string": "6.579 683 920 4999 e15",
+  "uncertainty": 7200,
+  "uncertainty_string": "0.000 000 000 0072 e15",
+  "unit": "Hz",
+  "exact": false,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

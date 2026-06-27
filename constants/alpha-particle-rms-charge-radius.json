@@ -1,0 +1,13 @@
+{
+  "slug": "alpha-particle-rms-charge-radius",
+  "name": "alpha particle rms charge radius",
+  "value": 1.6785e-15,
+  "value_string": "1.6785 e-15",
+  "uncertainty": 2.1e-18,
+  "uncertainty_string": "0.0021 e-15",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

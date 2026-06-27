@@ -1,0 +1,13 @@
+{
+  "slug": "muon-mass",
+  "name": "muon mass",
+  "value": 1.883531627e-28,
+  "value_string": "1.883 531 627 e-28",
+  "uncertainty": 4.2e-36,
+  "uncertainty_string": "0.000 000 042 e-28",
+  "unit": "kg",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

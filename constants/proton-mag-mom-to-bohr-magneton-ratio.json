@@ -1,0 +1,13 @@
+{
+  "slug": "proton-mag-mom-to-bohr-magneton-ratio",
+  "name": "proton mag. mom. to Bohr magneton ratio",
+  "value": 0.0015210322023,
+  "value_string": "1.521 032 202 30 e-3",
+  "uncertainty": 4.5e-13,
+  "uncertainty_string": "0.000 000 000 45 e-3",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

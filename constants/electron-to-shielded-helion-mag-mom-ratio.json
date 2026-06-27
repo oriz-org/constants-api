@@ -1,0 +1,13 @@
+{
+  "slug": "electron-to-shielded-helion-mag-mom-ratio",
+  "name": "electron to shielded helion mag. mom. ratio",
+  "value": 864.05823986,
+  "value_string": "864.058 239 86",
+  "uncertainty": 7e-7,
+  "uncertainty_string": "0.000 000 70",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

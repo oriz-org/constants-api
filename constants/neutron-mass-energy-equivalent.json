@@ -1,0 +1,13 @@
+{
+  "slug": "neutron-mass-energy-equivalent",
+  "name": "neutron mass energy equivalent",
+  "value": 1.50534976514e-10,
+  "value_string": "1.505 349 765 14 e-10",
+  "uncertainty": 7.6e-20,
+  "uncertainty_string": "0.000 000 000 76 e-10",
+  "unit": "J",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

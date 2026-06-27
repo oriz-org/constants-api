@@ -1,0 +1,13 @@
+{
+  "slug": "electron-tau-mass-ratio",
+  "name": "electron-tau mass ratio",
+  "value": 0.000287585,
+  "value_string": "2.875 85 e-4",
+  "uncertainty": 1.9e-8,
+  "uncertainty_string": "0.000 19 e-4",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

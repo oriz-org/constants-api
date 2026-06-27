@@ -1,0 +1,13 @@
+{
+  "slug": "hertz-kilogram-relationship",
+  "name": "hertz-kilogram relationship",
+  "value": 7.372497323e-51,
+  "value_string": "7.372 497 323... e-51",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "kg",
+  "exact": true,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

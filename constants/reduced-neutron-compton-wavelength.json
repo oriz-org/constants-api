@@ -1,0 +1,13 @@
+{
+  "slug": "reduced-neutron-compton-wavelength",
+  "name": "reduced neutron Compton wavelength",
+  "value": 2.100194152e-16,
+  "value_string": "2.100 194 1520 e-16",
+  "uncertainty": 1.1e-25,
+  "uncertainty_string": "0.000 000 0011 e-16",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

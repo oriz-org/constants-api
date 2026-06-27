@@ -1,0 +1,13 @@
+{
+  "slug": "bohr-magneton-in-hz-t",
+  "name": "Bohr magneton in Hz/T",
+  "value": 13996244917.1,
+  "value_string": "1.399 624 491 71 e10",
+  "uncertainty": 4.4,
+  "uncertainty_string": "0.000 000 000 44 e10",
+  "unit": "Hz T^-1",
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

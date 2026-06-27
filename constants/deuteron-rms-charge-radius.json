@@ -1,0 +1,13 @@
+{
+  "slug": "deuteron-rms-charge-radius",
+  "name": "deuteron rms charge radius",
+  "value": 2.12778e-15,
+  "value_string": "2.127 78 e-15",
+  "uncertainty": 2.7e-19,
+  "uncertainty_string": "0.000 27 e-15",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

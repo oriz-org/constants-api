@@ -1,0 +1,13 @@
+{
+  "slug": "copper-x-unit",
+  "name": "Copper x unit",
+  "value": 1.00207697e-13,
+  "value_string": "1.002 076 97 e-13",
+  "uncertainty": 2.8e-20,
+  "uncertainty_string": "0.000 000 28 e-13",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "tau-neutron-mass-ratio",
+  "name": "tau-neutron mass ratio",
+  "value": 1.89115,
+  "value_string": "1.891 15",
+  "uncertainty": 0.00013,
+  "uncertainty_string": "0.000 13",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

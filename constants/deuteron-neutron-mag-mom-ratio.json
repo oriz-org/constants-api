@@ -1,0 +1,13 @@
+{
+  "slug": "deuteron-neutron-mag-mom-ratio",
+  "name": "deuteron-neutron mag. mom. ratio",
+  "value": -0.44820652,
+  "value_string": "-0.448 206 52",
+  "uncertainty": 1.1e-7,
+  "uncertainty_string": "0.000 000 11",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "natural-unit-of-momentum",
+  "name": "natural unit of momentum",
+  "value": 2.73092453446e-22,
+  "value_string": "2.730 924 534 46 e-22",
+  "uncertainty": 8.5e-32,
+  "uncertainty_string": "0.000 000 000 85 e-22",
+  "unit": "kg m s^-1",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "hertz-electron-volt-relationship",
+  "name": "hertz-electron volt relationship",
+  "value": 4.135667696e-15,
+  "value_string": "4.135 667 696... e-15",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "eV",
+  "exact": true,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

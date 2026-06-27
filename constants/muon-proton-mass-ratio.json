@@ -1,0 +1,13 @@
+{
+  "slug": "muon-proton-mass-ratio",
+  "name": "muon-proton mass ratio",
+  "value": 0.1126095262,
+  "value_string": "0.112 609 5262",
+  "uncertainty": 2.5e-9,
+  "uncertainty_string": "0.000 000 0025",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

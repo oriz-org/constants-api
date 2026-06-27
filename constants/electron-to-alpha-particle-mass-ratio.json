@@ -1,0 +1,13 @@
+{
+  "slug": "electron-to-alpha-particle-mass-ratio",
+  "name": "electron to alpha particle mass ratio",
+  "value": 0.0001370933554733,
+  "value_string": "1.370 933 554 733 e-4",
+  "uncertainty": 3.2e-15,
+  "uncertainty_string": "0.000 000 000 032 e-4",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

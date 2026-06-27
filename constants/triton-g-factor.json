@@ -1,0 +1,13 @@
+{
+  "slug": "triton-g-factor",
+  "name": "triton g factor",
+  "value": 5.95792493,
+  "value_string": "5.957 924 930",
+  "uncertainty": 1.2e-8,
+  "uncertainty_string": "0.000 000 012",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

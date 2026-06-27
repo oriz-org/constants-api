@@ -1,0 +1,13 @@
+{
+  "slug": "helion-molar-mass",
+  "name": "helion molar mass",
+  "value": 0.0030149322501,
+  "value_string": "3.014 932 250 10 e-3",
+  "uncertainty": 9.4e-13,
+  "uncertainty_string": "0.000 000 000 94 e-3",
+  "unit": "kg mol^-1",
+  "exact": false,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

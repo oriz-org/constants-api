@@ -1,0 +1,13 @@
+{
+  "slug": "triton-mag-mom-to-nuclear-magneton-ratio",
+  "name": "triton mag. mom. to nuclear magneton ratio",
+  "value": 2.978962465,
+  "value_string": "2.978 962 4650",
+  "uncertainty": 5.9e-9,
+  "uncertainty_string": "0.000 000 0059",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

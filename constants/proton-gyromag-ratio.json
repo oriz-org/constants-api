@@ -1,0 +1,13 @@
+{
+  "slug": "proton-gyromag-ratio",
+  "name": "proton gyromag. ratio",
+  "value": 267522187.08,
+  "value_string": "2.675 221 8708 e8",
+  "uncertainty": 0.11,
+  "uncertainty_string": "0.000 000 0011 e8",
+  "unit": "s^-1 T^-1",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

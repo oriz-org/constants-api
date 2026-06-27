@@ -1,0 +1,13 @@
+{
+  "slug": "conductance-quantum",
+  "name": "conductance quantum",
+  "value": 0.00007748091729,
+  "value_string": "7.748 091 729... e-5",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "S",
+  "exact": true,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

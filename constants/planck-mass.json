@@ -1,0 +1,13 @@
+{
+  "slug": "planck-mass",
+  "name": "Planck mass",
+  "value": 2.176434e-8,
+  "value_string": "2.176 434 e-8",
+  "uncertainty": 2.4e-13,
+  "uncertainty_string": "0.000 024 e-8",
+  "unit": "kg",
+  "exact": false,
+  "category": "universal",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

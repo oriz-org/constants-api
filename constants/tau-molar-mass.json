@@ -1,0 +1,13 @@
+{
+  "slug": "tau-molar-mass",
+  "name": "tau molar mass",
+  "value": 0.00190754,
+  "value_string": "1.907 54 e-3",
+  "uncertainty": 1.3e-7,
+  "uncertainty_string": "0.000 13 e-3",
+  "unit": "kg mol^-1",
+  "exact": false,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

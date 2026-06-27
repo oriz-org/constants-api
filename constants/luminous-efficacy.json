@@ -1,0 +1,13 @@
+{
+  "slug": "luminous-efficacy",
+  "name": "luminous efficacy",
+  "value": 683,
+  "value_string": "683",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "lm W^-1",
+  "exact": true,
+  "category": "photometric",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

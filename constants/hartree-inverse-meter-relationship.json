@@ -1,0 +1,13 @@
+{
+  "slug": "hartree-inverse-meter-relationship",
+  "name": "hartree-inverse meter relationship",
+  "value": 21947463.136314,
+  "value_string": "2.194 746 313 6314 e7",
+  "uncertainty": 0.000024,
+  "uncertainty_string": "0.000 000 000 0024 e7",
+  "unit": "m^-1",
+  "exact": false,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

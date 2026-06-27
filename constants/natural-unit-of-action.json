@@ -1,0 +1,13 @@
+{
+  "slug": "natural-unit-of-action",
+  "name": "natural unit of action",
+  "value": 1.054571817e-34,
+  "value_string": "1.054 571 817... e-34",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "J s",
+  "exact": true,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "neutron-gyromag-ratio-in-mhz-t",
+  "name": "neutron gyromag. ratio in MHz/T",
+  "value": 29.1646935,
+  "value_string": "29.164 6935",
+  "uncertainty": 0.0000069,
+  "uncertainty_string": "0.000 0069",
+  "unit": "MHz T^-1",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

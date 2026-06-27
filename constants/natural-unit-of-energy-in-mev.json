@@ -1,0 +1,13 @@
+{
+  "slug": "natural-unit-of-energy-in-mev",
+  "name": "natural unit of energy in MeV",
+  "value": 0.51099895069,
+  "value_string": "0.510 998 950 69",
+  "uncertainty": 1.6e-10,
+  "uncertainty_string": "0.000 000 000 16",
+  "unit": "MeV",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "shielded-helion-mag-mom-to-nuclear-magneton-ratio",
+  "name": "shielded helion mag. mom. to nuclear magneton ratio",
+  "value": -2.1274977624,
+  "value_string": "-2.127 497 7624",
+  "uncertainty": 1.7e-9,
+  "uncertainty_string": "0.000 000 0017",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

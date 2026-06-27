@@ -1,0 +1,13 @@
+{
+  "slug": "natural-unit-of-time",
+  "name": "natural unit of time",
+  "value": 1.28808866644e-21,
+  "value_string": "1.288 088 666 44 e-21",
+  "uncertainty": 4e-31,
+  "uncertainty_string": "0.000 000 000 40 e-21",
+  "unit": "s",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

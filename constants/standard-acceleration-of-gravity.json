@@ -1,0 +1,13 @@
+{
+  "slug": "standard-acceleration-of-gravity",
+  "name": "standard acceleration of gravity",
+  "value": 9.80665,
+  "value_string": "9.806 65",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "m s^-2",
+  "exact": true,
+  "category": "conversions-and-adopted",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

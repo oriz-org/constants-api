@@ -1,0 +1,13 @@
+{
+  "slug": "classical-electron-radius",
+  "name": "classical electron radius",
+  "value": 2.8179403205e-15,
+  "value_string": "2.817 940 3205 e-15",
+  "uncertainty": 1.3e-24,
+  "uncertainty_string": "0.000 000 0013 e-15",
+  "unit": "m",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "atomic-unit-of-electric-quadrupole-mom",
+  "name": "atomic unit of electric quadrupole mom.",
+  "value": 4.4865515185e-40,
+  "value_string": "4.486 551 5185 e-40",
+  "uncertainty": 1.4e-49,
+  "uncertainty_string": "0.000 000 0014 e-40",
+  "unit": "C m^2",
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "electron-mag-mom",
+  "name": "electron mag. mom.",
+  "value": -9.2847646917e-24,
+  "value_string": "-9.284 764 6917 e-24",
+  "uncertainty": 2.9e-33,
+  "uncertainty_string": "0.000 000 0029 e-24",
+  "unit": "J T^-1",
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

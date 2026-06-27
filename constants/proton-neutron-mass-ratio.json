@@ -1,0 +1,13 @@
+{
+  "slug": "proton-neutron-mass-ratio",
+  "name": "proton-neutron mass ratio",
+  "value": 0.99862347797,
+  "value_string": "0.998 623 477 97",
+  "uncertainty": 4e-10,
+  "uncertainty_string": "0.000 000 000 40",
+  "unit": null,
+  "exact": false,
+  "category": "atomic-and-nuclear",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

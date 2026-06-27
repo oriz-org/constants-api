@@ -1,0 +1,13 @@
+{
+  "slug": "avogadro-constant",
+  "name": "Avogadro constant",
+  "value": 6.02214076e+23,
+  "value_string": "6.022 140 76 e23",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "mol^-1",
+  "exact": true,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

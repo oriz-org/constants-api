@@ -1,0 +1,13 @@
+{
+  "slug": "boltzmann-constant",
+  "name": "Boltzmann constant",
+  "value": 1.380649e-23,
+  "value_string": "1.380 649 e-23",
+  "uncertainty": null,
+  "uncertainty_string": "exact",
+  "unit": "J K^-1",
+  "exact": true,
+  "category": "physico-chemical",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "planck-temperature",
+  "name": "Planck temperature",
+  "value": 1.416784e+32,
+  "value_string": "1.416 784 e32",
+  "uncertainty": 1.6e+27,
+  "uncertainty_string": "0.000 016 e32",
+  "unit": "K",
+  "exact": false,
+  "category": "universal",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}

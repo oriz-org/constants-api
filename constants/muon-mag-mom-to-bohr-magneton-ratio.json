@@ -1,0 +1,13 @@
+{
+  "slug": "muon-mag-mom-to-bohr-magneton-ratio",
+  "name": "muon mag. mom. to Bohr magneton ratio",
+  "value": -0.00484197048,
+  "value_string": "-4.841 970 48 e-3",
+  "uncertainty": 1.1e-10,
+  "uncertainty_string": "0.000 000 11 e-3",
+  "unit": null,
+  "exact": false,
+  "category": "electromagnetic",
+  "source": "CODATA 2022 (NIST)",
+  "source_url": "https://physics.nist.gov/cuu/Constants/"
+}
